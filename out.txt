@@ -1,0 +1,84 @@
+MiniMarket
+MegaImage2
+
+Total 78.40 83.89 75.50
+
+Tara
+RO 60.00 64.20 57.78
+IT 10.00 10.70 9.63
+SP 8.40 8.99 8.09
+
+Factura1
+
+Total 78.40 83.89
+
+Tara
+IT 10.00 10.70
+RO 60.00 64.20
+SP 8.40 8.99
+
+MegaImage1
+
+Total 190.40 204.24 204.24
+
+Tara
+RO 76.00 79.20 79.20
+IT 49.20 52.58 52.58
+SP 65.20 72.46 72.46
+
+Factura2
+
+Total 66.60 70.44
+
+Tara
+IT 45.00 47.75
+SP 5.60 5.99
+RO 16.00 16.70
+
+Factura1
+
+Total 123.80 133.80
+
+Tara
+IT 4.20 4.83
+RO 60.00 62.50
+SP 59.60 66.47
+
+MediumMarket
+Carrefour1
+
+Total 78.40 83.89 79.69
+
+Tara
+RO 60.00 64.20 60.99
+IT 10.00 10.70 10.17
+SP 8.40 8.99 8.54
+
+Factura1
+
+Total 78.40 83.89
+
+Tara
+IT 10.00 10.70
+RO 60.00 64.20
+SP 8.40 8.99
+
+HyperMarket
+Cora5
+
+Total 82.00 87.20 86.33
+
+Tara
+RO 82.00 87.20 86.33
+IT 0.00 0.00 0.00
+SP 0.00 0.00 0.00
+
+Factura1
+
+Total 82.00 87.20
+
+Tara
+RO 82.00 87.20
+RO 82.00 87.20
+RO 82.00 87.20
+
